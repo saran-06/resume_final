@@ -1,0 +1,54 @@
+/* body
+{
+    border:5px 0px 0px 5px solid blue;
+} */
+div>img{
+    width:30%;
+    height:30%;
+    border-radius: 60%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+div#left_side
+{
+    float:left;
+    width:30%;
+    margin:10px;
+    /* padding:5px; */
+    /* border:5px solid black; */
+    background-color: skyblue;
+}
+div#right_side
+{
+    float:right;
+    margin:10px 0px 0px 10px;
+    width:65%;
+    /* border:5px solid black; */
+    padding: 5px ;
+}
+hr{
+    float:left;
+    width:50%;
+    border-color: red;
+    /* display:block;
+    align-self: left; */
+    /* margin-right:auto; */
+}
+table{
+    width:100%;
+}
+a:hover{
+    color:red;
+
+}
+/* footer dl{
+    float:right;
+}*/
+/* footer>p{
+    float:left;
+}  */
+header div{
+    float:right;
+}
